@@ -1,0 +1,1 @@
+console.log('halo nama sata rio ridali')
